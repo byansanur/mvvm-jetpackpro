@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SubmisionSatuJetPackPro</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_detail_movie">Detail Movie</string>
+    <string name="title">Title</string>
+    <string name="rilis">Year riles</string>
+    <string name="movies">Movies</string>
+    <string name="moviesTv">Serial TV</string>
+</resources>
